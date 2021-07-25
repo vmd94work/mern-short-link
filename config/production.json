@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "vitalii mern",
+  "mongoUri": "mongodb+srv://Vitalii:Pass123@cluster0.vk1kv.mongodb.net/mern-app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
